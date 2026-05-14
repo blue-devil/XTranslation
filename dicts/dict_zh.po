@@ -1666,22 +1666,22 @@ msgid "Stop"
 msgstr "停止"
 
 msgid "Stream"
-msgstr "Stream"
+msgstr "数据流"
 
 msgid "Stream Footer"
-msgstr "Stream Footer"
+msgstr "数据流尾"
 
 msgid "Stream Header"
-msgstr "Stream Header"
+msgstr "数据流头"
 
 msgid "Stream offset"
-msgstr "Stream offset"
+msgstr "数据流偏移"
 
 msgid "Stream size"
-msgstr "Stream size"
+msgstr "数据流大小"
 
 msgid "Streams"
-msgstr "Streams"
+msgstr "数据流"
 
 msgid "String"
 msgstr "字符串"
@@ -1693,7 +1693,7 @@ msgid "Strings"
 msgstr "字符串"
 
 msgid "Strings view not implemented yet"
-msgstr "Strings view not implemented yet"
+msgstr "字符串视图尚未实现"
 
 msgid "Struct"
 msgstr "结构体"
@@ -1741,7 +1741,7 @@ msgid "Table"
 msgstr "表格"
 
 msgid "Table Directory"
-msgstr "Table Directory"
+msgstr "表目录
 
 msgid "Table of contents"
 msgstr "目录"
@@ -1759,10 +1759,10 @@ msgid "Text"
 msgstr "文本"
 
 msgid "Text color"
-msgstr "Text color"
+msgstr "文本颜色"
 
 msgid "Text content"
-msgstr "Text content"
+msgstr "文本内容"
 
 msgid "Text documents"
 msgstr "文本文档"
@@ -1849,10 +1849,10 @@ msgid "U.Size"
 msgstr "U.Size"
 
 msgid "UNKNOWN"
-msgstr "UNKNOWN"
+msgstr "未知"
 
 msgid "Unexpected end of data"
-msgstr "Unexpected end of data"
+msgstr "数据意外结束"
 
 msgid "Unicode"
 msgstr "Unicode"
@@ -1864,7 +1864,7 @@ msgid "Unknown"
 msgstr "未知"
 
 msgid "Unknown compression method"
-msgstr "Unknown compression method"
+msgstr "未知的压缩方法"
 
 msgid "Unpack"
 msgstr "解包"
@@ -1888,10 +1888,10 @@ msgid "Uppercase"
 msgstr "大写字母"
 
 msgid "Use cache"
-msgstr "Use cache"
+msgstr "使用缓存"
 
 msgid "V.Size"
-msgstr "V.Size"
+msgstr "虚拟大小"
 
 msgid "Value"
 msgstr "值"
@@ -1948,16 +1948,16 @@ msgid "Wildcard"
 msgstr "通配符"
 
 msgid "Would you like to download them now?"
-msgstr "Would you like to download them now?"
+msgstr "是否立即下载?"
 
 msgid "Write error"
 msgstr "写入错误"
 
 msgid "YARA rules path not found"
-msgstr "YARA rules path not found"
+msgstr "未找到 YARA 规则路径"
 
 msgid "YARA scan failed"
-msgstr "YARA scan failed"
+msgstr "YARA 扫描失败"
 
 msgid "Zeros"
 msgstr "零填充"
@@ -1966,10 +1966,10 @@ msgid "Zoom"
 msgstr "缩放"
 
 msgid "Zoom In"
-msgstr "Zoom In"
+msgstr "放大"
 
 msgid "Zoom Out"
-msgstr "Zoom Out"
+msgstr "缩小"
 
 msgid "data"
 msgstr "数据"
