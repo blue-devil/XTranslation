@@ -1,0 +1,2006 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: en_US\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "128-bit"
+msgstr "128-bit"
+
+msgid "16-bit"
+msgstr "16-bit"
+
+msgid "256-bit"
+msgstr "256-bit"
+
+msgid "32-bit"
+msgstr "32-bit"
+
+msgid "64-bit"
+msgstr "64-bit"
+
+msgid "8-bit"
+msgstr "8-bit"
+
+msgid "API key"
+msgstr "Tasti API"
+
+msgid "APK tool"
+msgstr "Mjet APK"
+
+msgid "About"
+msgstr "Rreth"
+
+msgid "Action"
+msgstr "Veprimi"
+
+msgid "Actual Size"
+msgstr "Madhësia aktuale"
+
+msgid "Add"
+msgstr "Shto"
+
+msgid "Add alignment"
+msgstr "Shto shtrirjen"
+
+msgid "Add to context menu"
+msgstr "Shto te menyja e kontekstit"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Adler32"
+msgstr "Adler32"
+
+msgid "Advanced"
+msgstr "Të avancuara"
+
+msgid "Aggressive scan"
+msgstr "Skanim agresiv"
+
+msgid "Algorithm"
+msgstr "Algoritmi"
+
+msgid "All"
+msgstr "Të gjitha"
+
+msgid "All file types"
+msgstr "Të gjitha llojet e skedarëve"
+
+msgid "All files"
+msgstr "Të gjithë skedarët"
+
+msgid "All types"
+msgstr "Të gjitha llojet"
+
+msgid "Analyze"
+msgstr "Analizo"
+
+msgid "Analyzed"
+msgstr "E analizuar"
+
+msgid "Anchor Volume Descriptor"
+msgstr "Përshkrues i volumit spirancë"
+
+msgid "Animate"
+msgstr "Animoni"
+
+msgid "Appearance"
+msgstr "Pamja"
+
+msgid "Application"
+msgstr "Aplikacioni"
+
+msgid "Application Extension"
+msgstr "Zgjerim aplikacioni"
+
+msgid "Architecture"
+msgstr "Arkitektura"
+
+msgid "Archive"
+msgstr "Arkiva"
+
+msgid "Archive Explorer"
+msgstr "Eksplorues arkivash"
+
+msgid "Archive record"
+msgstr "Regjistrim arkive"
+
+msgid "Archive scan"
+msgstr "Skanim arkive"
+
+msgid "Archives"
+msgstr "Arkivat"
+
+msgid "Array"
+msgstr "Matrica"
+
+msgid "Arrows"
+msgstr "Shigjetat"
+
+msgid "Attach"
+msgstr "Bashkëngjit"
+
+msgid "Attributes"
+msgstr "Atributet"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Author"
+msgstr "Autori"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Automatic"
+msgstr "Automatike"
+
+msgid "Background"
+msgstr "Sfondi"
+
+msgid "Background color"
+msgstr "Ngjyra e sfondit"
+
+msgid "Base"
+msgstr "Baza"
+
+msgid "Base address"
+msgstr "Adresa bazë"
+
+msgid "Begin"
+msgstr "Fillo"
+
+msgid "Binary"
+msgstr "Binare"
+
+msgid "Bind"
+msgstr "Lidh"
+
+msgid "Binding"
+msgstr "Lidhje"
+
+msgid "Bitmap Data"
+msgstr "Të dhëna Bitmap"
+
+msgid "Bits"
+msgstr "Bite"
+
+msgid "Block size"
+msgstr "Madhësia e bllokut"
+
+msgid "Bookmark"
+msgstr "Faqerojtës"
+
+msgid "Bookmarks"
+msgstr "Faqerojtësit"
+
+msgid "Boot application"
+msgstr "Aplikacion nisjeje (boot)"
+
+msgid "Boot service driver"
+msgstr "Drajver shërbimi boot"
+
+msgid "Bound import"
+msgstr "Import i lidhur"
+
+msgid "Box"
+msgstr "Kuti"
+
+msgid "Boxes"
+msgstr "Kuti"
+
+msgid "Breakpoint"
+msgstr "Pikë ndalimi"
+
+msgid "Breakpoints"
+msgstr "Pika ndalimi"
+
+msgid "Buffer size"
+msgstr "Madhësia e buferit"
+
+msgid "Bugreports"
+msgstr "Raporte gabimesh"
+
+msgid "Bundle"
+msgstr "Paketë"
+
+msgid "Byte"
+msgstr "Bajti"
+
+msgid "Bytes"
+msgstr "Bajtët"
+
+msgid "Bytes available"
+msgstr "Bajtë të disponueshëm"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Calculate"
+msgstr "Llogarit"
+
+msgid "Callbacks"
+msgstr "Kthime thirrjesh (callbacks)"
+
+msgid "Callstack"
+msgstr "Stivë thirrjesh"
+
+msgid "Cancel"
+msgstr "Anulo"
+
+msgid "Cannot build YARA rules"
+msgstr "Nuk mund të ndërtohen rregullat YARA"
+
+msgid "Cannot create"
+msgstr "Nuk mund të krijohet"
+
+msgid "Cannot create YARA compiler"
+msgstr "Nuk mund të krijohet përpiluesi YARA"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Nuk mund të krijohet dosja e përkohshme e shpaketimit."
+
+msgid "Cannot decompress"
+msgstr "Nuk mund të shkompresohet"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Nuk mund të merren të dhënat e versionit për %1."
+
+msgid "Cannot find"
+msgstr "Nuk mund të gjendet"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Nuk mund të gjendet aseti ZIP %1 në versionin %2."
+
+msgid "Cannot find file"
+msgstr "Nuk mund të gjendet skedari"
+
+msgid "Cannot fix dump file"
+msgstr "Nuk mund të rregullohet skedari dump"
+
+msgid "Cannot get PDB age"
+msgstr "Nuk mund të merret mosha e PDB"
+
+msgid "Cannot get PDB name"
+msgstr "Nuk mund të merret emri i PDB"
+
+msgid "Cannot load MSDIA library"
+msgstr "Nuk mund të ngarkohet biblioteka MSDIA"
+
+msgid "Cannot load data from PDB"
+msgstr "Nuk mund të ngarkohen të dhëna nga PDB"
+
+msgid "Cannot load database"
+msgstr "Nuk mund të ngarkohet baza e të dhënave"
+
+msgid "Cannot load file"
+msgstr "Nuk mund të ngarkohet skedari"
+
+msgid "Cannot open archive"
+msgstr "Nuk mund të hapet arkiva"
+
+msgid "Cannot open dump file"
+msgstr "Nuk mund të hapet skedari dump"
+
+msgid "Cannot open file"
+msgstr "Nuk mund të hapet skedari"
+
+msgid "Cannot open rules file"
+msgstr "Nuk mund të hapet skedari i rregullave"
+
+msgid "Cannot open scan target"
+msgstr "Nuk mund të hapet objektivi i skanimit"
+
+msgid "Cannot open session"
+msgstr "Nuk mund të hapet sesioni"
+
+msgid "Cannot read file"
+msgstr "Nuk mund të lexohet skedari"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Nuk mund të lexohet info.ini lokal për %1, po kapërcehet."
+
+msgid "Cannot read memory at address"
+msgstr "Nuk mund të lexohet memoria në adresën"
+
+msgid "Cannot resize"
+msgstr "Nuk mund të ndryshohet madhësia"
+
+msgid "Cannot save file"
+msgstr "Nuk mund të ruhet skedari"
+
+msgid "Cannot set shortcut"
+msgstr "Nuk mund të caktohet shkurtorja"
+
+msgid "Cannot unpack"
+msgstr "Nuk mund të shpaketohet"
+
+msgid "Cannot unpack data"
+msgstr "Nuk mund të shpaketohen të dhënat"
+
+msgid "Cannot write data to file"
+msgstr "Nuk mund të shkruhen të dhëna në skedar"
+
+msgid "Catalog"
+msgstr "Katalogu"
+
+msgid "Certificate"
+msgstr "Certifikata"
+
+msgid "Check"
+msgstr "Kontrollo"
+
+msgid "Check for updates"
+msgstr "Kontrollo për përditësime"
+
+msgid "Check updates"
+msgstr "Kontrollo përditësimet"
+
+msgid "Chunk"
+msgstr "Pjesë (chunk)"
+
+msgid "Chunks"
+msgstr "Pjesë (chunks)"
+
+msgid "Class info"
+msgstr "Informacion klase"
+
+msgid "Clear"
+msgstr "Pastro"
+
+msgid "Clear result"
+msgstr "Pastro rezultatin"
+
+msgid "Close"
+msgstr "Mbyll"
+
+msgid "Code Object"
+msgstr "Objekt kodi"
+
+msgid "Code pages"
+msgstr "Faqet e kodit"
+
+msgid "Code section"
+msgstr "Seksioni i kodit"
+
+msgid "Collection"
+msgstr "Koleksioni"
+
+msgid "Color"
+msgstr "Ngjyra"
+
+msgid "Colors"
+msgstr "Ngjyrat"
+
+msgid "Commands"
+msgstr "Komandat"
+
+msgid "Comment"
+msgstr "Koment"
+
+msgid "Comment Extension"
+msgstr "Zgjerim komenti"
+
+msgid "Compact"
+msgstr "Kompakt"
+
+msgid "Compiler"
+msgstr "Përpiluesi"
+
+msgid "Compress"
+msgstr "Kompreso"
+
+msgid "Compressed"
+msgstr "E kompresuar"
+
+msgid "Compressed Data"
+msgstr "Të dhëna të kompresuara"
+
+msgid "Compressed size"
+msgstr "Madhësia e kompresuar"
+
+msgid "Compressor"
+msgstr "Kompresuesi"
+
+msgid "Conditional"
+msgstr "Kushtore"
+
+msgid "Console"
+msgstr "Konsola"
+
+msgid "Constant pool"
+msgstr "Pishinë konstantash"
+
+msgid "Controls"
+msgstr "Kontrollet"
+
+msgid "Converter"
+msgstr "Konvertuesi"
+
+msgid "Convertor"
+msgstr "Konvertuesi"
+
+msgid "Copy"
+msgstr "Kopjo"
+
+msgid "Copy as"
+msgstr "Kopjo si"
+
+msgid "Corrupted data"
+msgstr "Të dhëna të korruptuara"
+
+msgid "Count"
+msgstr "Numërimi"
+
+msgid "Creator"
+msgstr "Krijuesi"
+
+msgid "Crypter"
+msgstr "Enkriptuesi (Crypter)"
+
+msgid "Cryptor"
+msgstr "Enkriptuesi"
+
+msgid "Cursor"
+msgstr "Kursori"
+
+msgid "Custom"
+msgstr "E personalizuar"
+
+msgid "Custom database"
+msgstr "Bazë e dhënash e personalizuar"
+
+msgid "DOS extender"
+msgstr "Zgjatues DOS"
+
+msgid "Data"
+msgstr "Të dhëna"
+
+msgid "Data convertor"
+msgstr "Konvertues të dhënash"
+
+msgid "Data in code"
+msgstr "Të dhëna në kod"
+
+msgid "Database"
+msgstr "Bazë të dhënash"
+
+msgid "Databases"
+msgstr "Baza të dhënash"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "Debug data"
+msgstr "Të dhëna debug"
+
+msgid "Debug registers"
+msgstr "Regjistra debug"
+
+msgid "Debugger"
+msgstr "Debugger"
+
+msgid "Decode"
+msgstr "Dekodo"
+
+msgid "Deep scan"
+msgstr "Skanim i thellë"
+
+msgid "Default"
+msgstr "E parazgjedhur"
+
+msgid "Delay import"
+msgstr "Import me vonesë"
+
+msgid "Demangle"
+msgstr "Demangle"
+
+msgid "Dependencies"
+msgstr "Varësitë"
+
+msgid "Description"
+msgstr "Përshkrimi"
+
+msgid "Detach"
+msgstr "Shkëput"
+
+msgid "Detect"
+msgstr "Detekto"
+
+msgid "Device scan"
+msgstr "Skanim pajisjeje"
+
+msgid "Diagram"
+msgstr "Diagrami"
+
+msgid "Dialog"
+msgstr "Dialogu"
+
+msgid "Directory"
+msgstr "Dosja"
+
+msgid "Directory scan"
+msgstr "Skanim dosjeje"
+
+msgid "Disasm"
+msgstr "Disasm"
+
+msgid "Document"
+msgstr "Dokumenti"
+
+msgid "Documents"
+msgstr "Dokumentet"
+
+msgid "Donate"
+msgstr "Dhuro"
+
+msgid "Downloaded file is empty"
+msgstr "Skedari i shkarkuar është bosh"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Skedari i shkarkuar nuk është një arkivë e vlefshme ZIP"
+
+msgid "Driver"
+msgstr "Drajveri"
+
+msgid "Dump"
+msgstr "Dump"
+
+msgid "Dump all"
+msgstr "Dump të gjitha"
+
+msgid "Dump to file"
+msgstr "Dump në skedar"
+
+msgid "Edit"
+msgstr "Edito"
+
+msgid "Edit Flags"
+msgstr "Edito flamujt (flags)"
+
+msgid "Edit Size"
+msgstr "Edito madhësinë"
+
+msgid "Edit String"
+msgstr "Edito vargun"
+
+msgid "Edit Value"
+msgstr "Edito vlerën"
+
+msgid "Editor"
+msgstr "Editori"
+
+msgid "Elapsed"
+msgstr "E kaluar"
+
+msgid "Encode"
+msgstr "Enkodo"
+
+msgid "Encrypted"
+msgstr "E enkriptuar"
+
+msgid "End"
+msgstr "Fund"
+
+msgid "Endianness"
+msgstr "Endianness"
+
+msgid "Entries"
+msgstr "Hyrjet"
+
+msgid "Entropy"
+msgstr "Entropia"
+
+msgid "Entropy view not implemented yet"
+msgstr "Pamja e entropisë nuk është implementuar ende"
+
+msgid "Entry point"
+msgstr "Pika e hyrjes"
+
+msgid "Entry point section"
+msgstr "Seksioni i pikës së hyrjes"
+
+msgid "Error"
+msgstr "Gabim"
+
+msgid "Exceptions"
+msgstr "Përjashtimet"
+
+msgid "Exit"
+msgstr "Dil"
+
+msgid "Export"
+msgstr "Eksporto"
+
+msgid "Export File Name"
+msgstr "Emri i skedarit të eksportuar"
+
+msgid "Export type"
+msgstr "Lloji i eksportit"
+
+msgid "Extender"
+msgstr "Zgjatuesi"
+
+msgid "Extension"
+msgstr "Zgjerimi"
+
+msgid "External references"
+msgstr "Referenca të jashtme"
+
+msgid "Extra"
+msgstr "Ekstra"
+
+msgid "Extra database"
+msgstr "Bazë e dhënash ekstra"
+
+msgid "Extra database updated successfully"
+msgstr "Bazë e dhënash ekstra u përditësua me sukses"
+
+msgid "Extract"
+msgstr "Ekstrakto"
+
+msgid "Extract all cursors"
+msgstr "Ekstrakto të gjithë kursorët"
+
+msgid "Extract all icons"
+msgstr "Ekstrakto të gjitha ikonat"
+
+msgid "Extractor"
+msgstr "Ekstraktuesi"
+
+msgid "Failed to create temporary directory"
+msgstr "Dështoi krijimi i dosjes së përkohshme"
+
+msgid "Failed to extract %1."
+msgstr "Dështoi ekstraktimi i %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Dështoi ekstraktimi i arkivës: asnjë skedar nuk u ekstraktua"
+
+msgid "Failed to get remote database info"
+msgstr "Dështoi marrja e informacionit për bazën e të dhënave në distancë"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Dështoi inicializimi i shpaketimit ZIP"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Dështoi hapja e skedarit zip të shkarkuar"
+
+msgid "Failed to save image to %1"
+msgstr "Dështoi ruajtja e imazhit te %1"
+
+msgid "Features"
+msgstr "Karakteristikat"
+
+msgid "Fields"
+msgstr "Fushat"
+
+msgid "File"
+msgstr "Skedari"
+
+msgid "File buffer size"
+msgstr "Madhësia e buferit të skedarit"
+
+msgid "File info"
+msgstr "Informacion për skedarin"
+
+msgid "File name"
+msgstr "Emri i skedarit"
+
+msgid "File name cannot be empty"
+msgstr "Emri i skedarit nuk mund të jetë bosh"
+
+msgid "File offset"
+msgstr "Ofseti i skedarit"
+
+msgid "File saved"
+msgstr "Skedari u ruajt"
+
+msgid "File scan"
+msgstr "Skanim skedari"
+
+msgid "File size"
+msgstr "Madhësia e skedarit"
+
+msgid "File type"
+msgstr "Lloji i skedarit"
+
+msgid "Files"
+msgstr "Skedarët"
+
+msgid "Filter"
+msgstr "Filtri"
+
+msgid "Find"
+msgstr "Gjej"
+
+msgid "First"
+msgstr "I pari"
+
+msgid "Fit to Window"
+msgstr "Përshtat me dritaren"
+
+msgid "Fix offsets"
+msgstr "Rregullo ofsetet"
+
+msgid "Fix types"
+msgstr "Rregullo llojet"
+
+msgid "Flags"
+msgstr "Flamujt (flags)"
+
+msgid "Flags register"
+msgstr "Regjistri i flamujve"
+
+msgid "Folder"
+msgstr "Dosja"
+
+msgid "Follow in"
+msgstr "Ndiq në"
+
+msgid "Follow me"
+msgstr "Më ndiq"
+
+msgid "Fonts"
+msgstr "Shkronjat (fonts)"
+
+msgid "Footer"
+msgstr "Fundi i faqes (footer)"
+
+msgid "Form"
+msgstr "Forma"
+
+msgid "Format"
+msgstr "Formati"
+
+msgid "Format result"
+msgstr "Formato rezultatin"
+
+msgid "Full"
+msgstr "I plotë"
+
+msgid "Full screen"
+msgstr "Ekran i plotë"
+
+msgid "Function enter"
+msgstr "Hyrje funksioni"
+
+msgid "Function leave"
+msgstr "Dalje funksioni"
+
+msgid "Functions"
+msgstr "Funksionet"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "Game engine"
+msgstr "Motor loje"
+
+msgid "General registers"
+msgstr "Regjistra të përgjithshëm"
+
+msgid "Generic"
+msgstr "Gjenerik"
+
+msgid "Get"
+msgstr "Merr"
+
+msgid "Get element"
+msgstr "Merr elementin"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "Global Color Table"
+msgstr "Tabela globale e ngjyrave"
+
+msgid "Go to"
+msgstr "Shko tek"
+
+msgid "Go to address"
+msgstr "Shko tek adresa"
+
+msgid "Go to download page?"
+msgstr "Shko te faqja e shkarkimit?"
+
+msgid "Gradient"
+msgstr "Gradienti"
+
+msgid "Graphic Control Extension"
+msgstr "Zgjerim kontrolli grafik"
+
+msgid "Grid"
+msgstr "Rrjeta"
+
+msgid "Group"
+msgstr "Grupi"
+
+msgid "Handles"
+msgstr "Dorezat (handles)"
+
+msgid "Hardware"
+msgstr "Hardueri"
+
+msgid "Hash"
+msgstr "Hash"
+
+msgid "Hash view not implemented yet"
+msgstr "Pamja e hash-it nuk është implementuar ende"
+
+msgid "Header"
+msgstr "Koka (header)"
+
+msgid "Height"
+msgstr "Lartësia"
+
+msgid "Help"
+msgstr "Ndihmë"
+
+msgid "Heuristic"
+msgstr "Heuristik"
+
+msgid "Heuristic scan"
+msgstr "Skanim heuristik"
+
+msgid "Heuristics"
+msgstr "Heuristikat"
+
+msgid "Hex"
+msgstr "Hex"
+
+msgid "Hex view not implemented yet"
+msgstr "Pamja Hex nuk është implementuar ende"
+
+msgid "Hide unknown"
+msgstr "Fshih të panjohurat"
+
+msgid "Highlight"
+msgstr "Thekso"
+
+msgid "Highlights"
+msgstr "Theksimet"
+
+msgid "Icon"
+msgstr "Ikona"
+
+msgid "Image"
+msgstr "Imazhi"
+
+msgid "Image information"
+msgstr "Informacioni i imazhit"
+
+msgid "Images"
+msgstr "Imazhet"
+
+msgid "Import"
+msgstr "Importo"
+
+msgid "Import hash"
+msgstr "Hash importi"
+
+msgid "Indirect symbols"
+msgstr "Simbole indirekte"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Info database update URL"
+msgstr "URL e përditësimit të bazës së të dhënave Info"
+
+msgid "Information"
+msgstr "Informacioni"
+
+msgid "Input"
+msgstr "Hyrja"
+
+msgid "Inspector"
+msgstr "Inspektori"
+
+msgid "Installer"
+msgstr "Instaluesi"
+
+msgid "Installer data"
+msgstr "Të dhëna instaluesi"
+
+msgid "Instruction pointer register"
+msgstr "Regjistri i treguesit të instruksionit"
+
+msgid "Interfaces"
+msgstr "Ndërfaqet"
+
+msgid "Interpreter"
+msgstr "Interpretuesi"
+
+msgid "Invalid"
+msgstr "E pavlefshme"
+
+msgid "Invalid CRC"
+msgstr "CRC e pavlefshme"
+
+msgid "Invalid YARA compiler"
+msgstr "Përpilues YARA i pavlefshëm"
+
+msgid "Invalid data"
+msgstr "Të dhëna të pavlefshme"
+
+msgid "Invalid font"
+msgstr "Shkronjë (font) e pavlefshme"
+
+msgid "Invalid format data"
+msgstr "Të dhëna formati të pavlefshme"
+
+msgid "Invalid handle"
+msgstr "Dorezë (handle) e pavlefshme"
+
+msgid "Invalid offset"
+msgstr "Ofset i pavlefshëm"
+
+msgid "Invalid opcode"
+msgstr "Opcode i pavlefshëm"
+
+msgid "Invalid parameters provided"
+msgstr "Janë dhënë parametra të pavlefshëm"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Trup versioni i pavlefshëm për %1. Pritej data=yyyy-MM-dd."
+
+msgid "Invalid signature"
+msgstr "Nënshkrim i pavlefshëm"
+
+msgid "Invalid size"
+msgstr "Madhësi e pavlefshme"
+
+msgid "Issuer"
+msgstr "Lëshuesi"
+
+msgid "Joiner"
+msgstr "Bashkuesi"
+
+msgid "Keep size"
+msgstr "Ruaj madhësinë"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Language"
+msgstr "Gjuha"
+
+msgid "Last"
+msgstr "I fundit"
+
+msgid "Last error"
+msgstr "Gabimi i fundit"
+
+msgid "Lazy binding"
+msgstr "Lidhje dembele (lazy binding)"
+
+msgid "Length"
+msgstr "Gjatësia"
+
+msgid "Libraries"
+msgstr "Bibliotekat"
+
+msgid "Library"
+msgstr "Biblioteka"
+
+msgid "Library name"
+msgstr "Emri i bibliotekës"
+
+msgid "Licensing"
+msgstr "Liçensimi"
+
+msgid "Linker"
+msgstr "Linker-i"
+
+msgid "Links"
+msgstr "Lidhjet"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Load"
+msgstr "Ngarko"
+
+msgid "Load config"
+msgstr "Ngarko konfigurimin"
+
+msgid "Loader"
+msgstr "Ngarkuesi"
+
+msgid "Local relocation"
+msgstr "Relokim lokal"
+
+msgid "Location"
+msgstr "Vendndodhja"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Logical Screen Descriptor"
+msgstr "Përshkrues logjik i ekranit"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "Main"
+msgstr "Kryesore"
+
+msgid "Main database updated successfully"
+msgstr "Baza kryesore e të dhënave u përditësua me sukses"
+
+msgid "Main module"
+msgstr "Moduli kryesor"
+
+msgid "MainWindow"
+msgstr "Dritarja kryesore"
+
+msgid "Malware"
+msgstr "Malware"
+
+msgid "Manifest"
+msgstr "Manifesti"
+
+msgid "Map"
+msgstr "Harta"
+
+msgid "Maps"
+msgstr "Hartat"
+
+msgid "Mask"
+msgstr "Maska"
+
+msgid "Match case"
+msgstr "Përputh madhësinë e shkronjave"
+
+msgid "Matches"
+msgstr "Përputhjet"
+
+msgid "Maximum"
+msgstr "Maksimumi"
+
+msgid "Memory"
+msgstr "Memoria"
+
+msgid "Memory map"
+msgstr "Harta e memories"
+
+msgid "Memory scan"
+msgstr "Skanim i memories"
+
+msgid "Metadata"
+msgstr "Metadatat"
+
+msgid "Metadata table"
+msgstr "Tabela e metadatos"
+
+msgid "Method"
+msgstr "Metoda"
+
+msgid "Methods"
+msgstr "Metodat"
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Min length"
+msgstr "Gjatësia minimale"
+
+msgid "Missing Resources"
+msgstr "Burime që mungojnë"
+
+msgid "Mode"
+msgstr "Mënyra"
+
+msgid "Mode is not available for this file type"
+msgstr "Mënyra nuk është e disponueshme për këtë lloj skedari"
+
+msgid "Modules"
+msgstr "Modulet"
+
+msgid "More info"
+msgstr "Më shumë info"
+
+msgid "Multiplatform"
+msgstr "Shumëplatformësh"
+
+msgid "Multisearch"
+msgstr "Multikërkim"
+
+msgid "Name"
+msgstr "Emri"
+
+msgid "Native"
+msgstr "Vendas (native)"
+
+msgid "Network error"
+msgstr "Gabim rrjeti"
+
+msgid "Network error while checking for database updates"
+msgstr "Gabim rrjeti gjatë kontrollit për përditësime të bazës së të dhënave"
+
+msgid "New"
+msgstr "I ri"
+
+msgid "New version available"
+msgstr "Version i ri i disponueshëm"
+
+msgid "Next"
+msgstr "Tjetër"
+
+msgid "Next visited"
+msgstr "Tjetri i vizituar"
+
+msgid "No"
+msgstr "Jo"
+
+msgid "No YARA rules were loaded"
+msgstr "Nuk u ngarkua asnjë rregull YARA"
+
+msgid "No image loaded"
+msgstr "Nuk është ngarkuar asnjë imazh"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "Nuk ka info.ini lokal për %1. Po bëhet bootstrapping nga versioni GitHub %2."
+
+msgid "No update available"
+msgstr "Nuk ka përditësime të disponueshme"
+
+msgid "None"
+msgstr "Asnjë"
+
+msgid "Nothing found"
+msgstr "Nuk u gjet asgjë"
+
+msgid "Null-terminated"
+msgstr "I përfunduar me Null"
+
+msgid "Numbers"
+msgstr "Numrat"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Obfuscator"
+msgstr "Obfuskuesi"
+
+msgid "Object"
+msgstr "Objekti"
+
+msgid "Objects"
+msgstr "Objektet"
+
+msgid "Offset"
+msgstr "Ofseti"
+
+msgid "One operand"
+msgstr "Një operand"
+
+msgid "Online tools"
+msgstr "Mjete online"
+
+msgid "Opcode"
+msgstr "Opcode"
+
+msgid "Opcode group"
+msgstr "Grup opcode"
+
+msgid "Opcodes"
+msgstr "Opcodes"
+
+msgid "Open"
+msgstr "Hap"
+
+msgid "Open Directory"
+msgstr "Hap dosjen"
+
+msgid "Open directory"
+msgstr "Hap dosjen"
+
+msgid "Open file"
+msgstr "Hap skedarin"
+
+msgid "Operation system"
+msgstr "Sistemi operativ"
+
+msgid "Options"
+msgstr "Opsionet"
+
+msgid "Output"
+msgstr "Dalja"
+
+msgid "Overlay"
+msgstr "Mbivendosje (overlay)"
+
+msgid "Overlay scan"
+msgstr "Skanim mbivendosjeje"
+
+msgid "PE tool"
+msgstr "Mjet PE"
+
+msgid "Package"
+msgstr "Paketa"
+
+msgid "Packer"
+msgstr "Paketuesi"
+
+msgid "Part"
+msgstr "Pjesa"
+
+msgid "Patch"
+msgstr "Përpuno (patch)"
+
+msgid "Path traversal detected"
+msgstr "U detektua kalim shtegu (path traversal)"
+
+msgid "Path"
+msgstr "Shtegu"
+
+msgid "Pause"
+msgstr "Pauzo"
+
+msgid "Paused"
+msgstr "E pauzuar"
+
+msgid "Payload"
+msgstr "Payload"
+
+msgid "Personal data"
+msgstr "Të dhëna personale"
+
+msgid "Plain Text"
+msgstr "Tekst i thjeshtë"
+
+msgid "Plain Text Extension"
+msgstr "Zgjerim teksti i thjeshtë"
+
+msgid "Platform"
+msgstr "Platforma"
+
+msgid "Player"
+msgstr "Lojtari"
+
+msgid "Please restart the application"
+msgstr "Ju lutemi restartoni aplikacionin"
+
+msgid "Please run the program as an administrator"
+msgstr "Ju lutemi ekzekutoni programin si administrator"
+
+msgid "Please use valid API key"
+msgstr "Ju lutemi përdorni një tast API të vlefshëm"
+
+msgid "Pointer"
+msgstr "Treguesi"
+
+msgid "Position"
+msgstr "Pozicioni"
+
+msgid "Previous visited"
+msgstr "I mëparshmi i vizituar"
+
+msgid "Primary Volume Descriptor"
+msgstr "Përshkrues primar i volumit"
+
+msgid "Print"
+msgstr "Printo"
+
+msgid "Process"
+msgstr "Procesi"
+
+msgid "Producer"
+msgstr "Prodhuesi"
+
+msgid "Profiling"
+msgstr "Profilimi"
+
+msgid "Program name"
+msgstr "Emri i programit"
+
+msgid "Programs"
+msgstr "Programet"
+
+msgid "Protection"
+msgstr "Mbrojtja"
+
+msgid "Protector"
+msgstr "Mbrojtësi"
+
+msgid "Protector data"
+msgstr "Të dhëna mbrojtësi"
+
+msgid "Prototype"
+msgstr "Prototipi"
+
+msgid "Publisher"
+msgstr "Botuesi"
+
+msgid "RIFF Header"
+msgstr "Koka RIFF"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw (e papërpunuar)"
+
+msgid "Raw data"
+msgstr "Të dhëna të papërpunuara"
+
+msgid "Read buffer size"
+msgstr "Madhësia e buferit të leximit"
+
+msgid "Read error"
+msgstr "Gabim leximi"
+
+msgid "Readonly"
+msgstr "Vetëm për lexim"
+
+msgid "Rebase"
+msgstr "Rindërto bazën (rebase)"
+
+msgid "Recent files"
+msgstr "Skedarët e fundit"
+
+msgid "Record"
+msgstr "Regjistro"
+
+msgid "Recursive"
+msgstr "Rekursive"
+
+msgid "Recursive scan"
+msgstr "Skanim rekursiv"
+
+msgid "References"
+msgstr "Referencat"
+
+msgid "Region"
+msgstr "Rajoni"
+
+msgid "Regions"
+msgstr "Rajonet"
+
+msgid "Register"
+msgstr "Regjistri"
+
+msgid "Registers"
+msgstr "Regjistrat"
+
+msgid "Regular expression"
+msgstr "Shprehje e rregullt"
+
+msgid "Relative address"
+msgstr "Adresa relative"
+
+msgid "Relative virtual address"
+msgstr "Adresa virtuale relative"
+
+msgid "Reload"
+msgstr "Ringarko"
+
+msgid "Relocs"
+msgstr "Reloc-et"
+
+msgid "Remaining:"
+msgstr "E mbetur:"
+
+msgid "Remove"
+msgstr "Hiq"
+
+msgid "Rescan"
+msgstr "Riskano"
+
+msgid "Reserved"
+msgstr "E rezervuar"
+
+msgid "Resize"
+msgstr "Ndrysho madhësinë"
+
+msgid "Resource"
+msgstr "Burimi"
+
+msgid "Resource scan"
+msgstr "Skanim burimesh"
+
+msgid "Resources"
+msgstr "Burimet"
+
+msgid "Restart"
+msgstr "Restart"
+
+msgid "Result"
+msgstr "Rezultati"
+
+msgid "Rule name"
+msgstr "Emri i rregullës"
+
+msgid "Rules"
+msgstr "Rregullat"
+
+msgid "Run"
+msgstr "Ekzekuto"
+
+msgid "Run path"
+msgstr "Shtegu i ekzekutimit"
+
+msgid "Running"
+msgstr "Duke ekzekutuar"
+
+msgid "Runtime driver"
+msgstr "Drajver ekzekutimi"
+
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "Të dhëna SFX"
+
+msgid "SZDD Header"
+msgstr "Koka SZDD"
+
+msgid "Save"
+msgstr "Ruaj"
+
+msgid "Save Image"
+msgstr "Ruaj imazhin"
+
+msgid "Save as"
+msgstr "Ruaj si"
+
+msgid "Save backup"
+msgstr "Ruaj rezervën"
+
+msgid "Save diagram"
+msgstr "Ruaj diagramin"
+
+msgid "Save dump"
+msgstr "Ruaj dump-in"
+
+msgid "Save file"
+msgstr "Ruaj skedarin"
+
+msgid "Save history"
+msgstr "Ruaj historikun"
+
+msgid "Save last directory"
+msgstr "Ruaj dosjen e fundit"
+
+msgid "Save result"
+msgstr "Ruaj rezultatin"
+
+msgid "Scan"
+msgstr "Skano"
+
+msgid "Scan after open"
+msgstr "Skano pas hapjes"
+
+msgid "Scan engine"
+msgstr "Motor skanimi"
+
+msgid "Schema"
+msgstr "Skema"
+
+msgid "Script"
+msgstr "Skripti"
+
+msgid "Scripts"
+msgstr "Skriptet"
+
+msgid "Search"
+msgstr "Kërko"
+
+msgid "Search from"
+msgstr "Kërko nga"
+
+msgid "Search signature"
+msgstr "Kërko nënshkrimin"
+
+msgid "Search signatures"
+msgstr "Kërko nënshkrimet"
+
+msgid "Search string"
+msgstr "Kërko vargun"
+
+msgid "Search strings"
+msgstr "Kërko vargjet"
+
+msgid "Search value"
+msgstr "Kërko vlerën"
+
+msgid "Search values"
+msgstr "Kërko vlerat"
+
+msgid "Section"
+msgstr "Seksioni"
+
+msgid "Section name"
+msgstr "Emri i seksionit"
+
+msgid "Sections"
+msgstr "Seksionet"
+
+msgid "Segment"
+msgstr "Segmenti"
+
+msgid "Segment %1"
+msgstr "Segmenti %1"
+
+msgid "Segment registers"
+msgstr "Regjistra segmenti"
+
+msgid "Segments"
+msgstr "Segmentet"
+
+msgid "Select"
+msgstr "Zgjidh"
+
+msgid "Select Value"
+msgstr "Zgjidh vlerën"
+
+msgid "Selected"
+msgstr "E zgjedhur"
+
+msgid "Selection"
+msgstr "Përzgjedhja"
+
+msgid "Serial number"
+msgstr "Numri serial"
+
+msgid "Set system environment variable"
+msgstr "Cakto variablin e mjedisit të sistemit"
+
+msgid "Shortcut"
+msgstr "Shkurtorja"
+
+msgid "Shortcuts"
+msgstr "Shkurtoret"
+
+msgid "Show"
+msgstr "Shfaq"
+
+msgid "Show Offsets"
+msgstr "Shfaq ofsetet"
+
+msgid "Show Presentation"
+msgstr "Shfaq prezantimin"
+
+msgid "Show all"
+msgstr "Shfaq të gjitha"
+
+msgid "Show colons in addresses"
+msgstr "Shfaq dy pika në adresa"
+
+msgid "Show comments"
+msgstr "Shfaq komentet"
+
+msgid "Show detects"
+msgstr "Shfaq detektimet"
+
+msgid "Show in"
+msgstr "Shfaq në"
+
+msgid "Show info"
+msgstr "Shfaq info"
+
+msgid "Show logo"
+msgstr "Shfaq logon"
+
+msgid "Show type"
+msgstr "Shfaq llojin"
+
+msgid "Show valid"
+msgstr "Shfaq të vlefshmet"
+
+msgid "Show version"
+msgstr "Shfaq versionin"
+
+msgid "Sign tool"
+msgstr "Mjet nënshkrimi"
+
+msgid "Signature"
+msgstr "Nënshkrimi"
+
+msgid "Signature name"
+msgstr "Emri i nënshkrimit"
+
+msgid "Signatures"
+msgstr "Nënshkrimet"
+
+msgid "Signed"
+msgstr "I nënshkruar"
+
+msgid "Single application"
+msgstr "Aplikacion i vetëm"
+
+msgid "Size"
+msgstr "Madhësia"
+
+msgid "Size of image"
+msgstr "Madhësia e imazhit"
+
+msgid "Social Media"
+msgstr "Rrjetet Sociale"
+
+msgid "Sort"
+msgstr "Rendit"
+
+msgid "Sort elements"
+msgstr "Rendit elementet"
+
+msgid "Sort type"
+msgstr "Lloji i renditjes"
+
+msgid "Sorted"
+msgstr "E renditur"
+
+msgid "Source code"
+msgstr "Kodi burim"
+
+msgid "Spaces"
+msgstr "Hapësirat"
+
+msgid "Stack"
+msgstr "Stiva"
+
+msgid "Stack registers"
+msgstr "Regjistra stive"
+
+msgid "Start"
+msgstr "Fillo"
+
+msgid "Status"
+msgstr "Statusi"
+
+msgid "Stay on top"
+msgstr "Qëndro sipër"
+
+msgid "Step into"
+msgstr "Hyr brenda (step into)"
+
+msgid "Step over"
+msgstr "Kapërce (step over)"
+
+msgid "Stop"
+msgstr "Ndal"
+
+msgid "Stream"
+msgstr "Rrjedha (stream)"
+
+msgid "Stream Footer"
+msgstr "Fundi i rrjedhës (stream footer)"
+
+msgid "Stream Header"
+msgstr "Koka e rrjedhës (stream header)"
+
+msgid "Stream offset"
+msgstr "Ofseti i rrjedhës"
+
+msgid "Stream size"
+msgstr "Madhësia e rrjedhës"
+
+msgid "Streams"
+msgstr "Rrjedhat"
+
+msgid "String"
+msgstr "Vargu"
+
+msgid "String table"
+msgstr "Tabela e vargjeve"
+
+msgid "Strings"
+msgstr "Vargjet"
+
+msgid "Strings view not implemented yet"
+msgstr "Pamja e vargjeve nuk është implementuar ende"
+
+msgid "Struct"
+msgstr "Struktura"
+
+msgid "Struct and unions"
+msgstr "Struktura dhe bashkime (unions)"
+
+msgid "Structs"
+msgstr "Strukturat"
+
+msgid "Stub"
+msgstr "Stub"
+
+msgid "Style"
+msgstr "Stili"
+
+msgid "Subdirectories"
+msgstr "Nëndosjet"
+
+msgid "Subject"
+msgstr "Subjekti"
+
+msgid "Symbol"
+msgstr "Simboli"
+
+msgid "Symbol table"
+msgstr "Tabela e simboleve"
+
+msgid "Symbols"
+msgstr "Simbolet"
+
+msgid "Sync"
+msgstr "Sinkronizo"
+
+msgid "Syntax"
+msgstr "Sintaksa"
+
+msgid "TABLE"
+msgstr "TABELA"
+
+msgid "TB"
+msgstr "TB"
+
+msgid "Table"
+msgstr "Tabela"
+
+msgid "Table Directory"
+msgstr "Dosja e tabelës"
+
+msgid "Table of contents"
+msgstr "Tabela e përmbajtjes"
+
+msgid "Table views"
+msgstr "Pamjet e tabelës"
+
+msgid "Tag"
+msgstr "Etiketa"
+
+msgid "Tags"
+msgstr "Etiketat"
+
+msgid "Text"
+msgstr "Teksti"
+
+msgid "Text color"
+msgstr "Ngjyra e tekstit"
+
+msgid "Text content"
+msgstr "Përmbajtja e tekstit"
+
+msgid "Text documents"
+msgstr "Dokumente teksti"
+
+msgid "Text editors"
+msgstr "Editorë teksti"
+
+msgid "Text files"
+msgstr "Skedarë teksti"
+
+msgid "Thanks"
+msgstr "Faleminderit"
+
+msgid "The file is not signed"
+msgstr "Skedari nuk është i nënshkruar"
+
+msgid "The file is signed and the signature was verified"
+msgstr "Skedari është i nënshkruar dhe nënshkrimi u verifikua"
+
+msgid "The signature error"
+msgstr "Gabimi i nënshkrimit"
+
+msgid "The signature is present, but not trusted"
+msgstr "Nënshkrimi është i pranishëm, por jo i besuar"
+
+msgid "The signature is present, but specifically disallowed"
+msgstr "Nënshkrimi është i pranishëm, por specifikisht i ndaluar"
+
+msgid "The value copied to clipboard"
+msgstr "Vlera u kopjua në tabelën e punës (clipboard)"
+
+msgid "Threads"
+msgstr "Fijet (threads)"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Time"
+msgstr "Koha"
+
+msgid "Time date stamp"
+msgstr "Vula kohore e datës"
+
+msgid "Toggle"
+msgstr "Ndërro (toggle)"
+
+msgid "Tool"
+msgstr "Mjeti"
+
+msgid "Tools"
+msgstr "Mjetet"
+
+msgid "Total"
+msgstr "Gjithsej"
+
+msgid "Trace"
+msgstr "Gjurmo (trace)"
+
+msgid "Trace into"
+msgstr "Gjurmo brenda"
+
+msgid "Trace over"
+msgstr "Gjurmo sipër"
+
+msgid "Trailer"
+msgstr "Trailer"
+
+msgid "Tree"
+msgstr "Pema"
+
+msgid "Tree views"
+msgstr "Pamjet e pemës"
+
+msgid "Trojan"
+msgstr "Trojan"
+
+msgid "Two operands"
+msgstr "Dy operande"
+
+msgid "Type"
+msgstr "Lloji"
+
+msgid "U.Size"
+msgstr "Madhësia e shpaketuara"
+
+msgid "UNKNOWN"
+msgstr "E PANJOHUR"
+
+msgid "Unexpected end of data"
+msgstr "Fund i papritur i të dhënave"
+
+msgid "Unicode"
+msgstr "Unicode"
+
+msgid "Universal"
+msgstr "Universal"
+
+msgid "Unknown"
+msgstr "E panjohur"
+
+msgid "Unknown compression method"
+msgstr "Metodë kompresimi e panjohur"
+
+msgid "Unpack"
+msgstr "Shpaketo"
+
+msgid "Unsigned"
+msgstr "I panënshkruar"
+
+msgid "Update"
+msgstr "Përditëso"
+
+msgid "Update information"
+msgstr "Informacion përditësimi"
+
+msgid "Upload the file for analyze?"
+msgstr "Ngarko skedarin për analizë?"
+
+msgid "Upper"
+msgstr "E sipërme"
+
+msgid "Uppercase"
+msgstr "Shkronja të mëdha"
+
+msgid "Use cache"
+msgstr "Përdor cache"
+
+msgid "V.Size"
+msgstr "Madhësia virtuale"
+
+msgid "Value"
+msgstr "Vlera"
+
+msgid "Values"
+msgstr "Vlerat"
+
+msgid "Variable"
+msgstr "Variabli"
+
+msgid "Verbose"
+msgstr "Verbose (e detajuar)"
+
+msgid "Version"
+msgstr "Versioni"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "View"
+msgstr "Pamja"
+
+msgid "Viewer"
+msgstr "Shikuesi"
+
+msgid "Virtual address"
+msgstr "Adresa virtuale"
+
+msgid "Virtual machine"
+msgstr "Makina virtuale"
+
+msgid "Virtual size"
+msgstr "Madhësia virtuale"
+
+msgid "Virus"
+msgstr "Virus"
+
+msgid "Visualization"
+msgstr "Vizualizimi"
+
+msgid "Warning"
+msgstr "Paralajmërim"
+
+msgid "Weak binding"
+msgstr "Lidhje e dobët"
+
+msgid "Website"
+msgstr "Faqja e internetit"
+
+msgid "Width"
+msgstr "Gjerësia"
+
+msgid "Wildcard"
+msgstr "Wildcard"
+
+msgid "Would you like to download them now?"
+msgstr "Dëshironi t'i shkarkoni ato tani?"
+
+msgid "Write error"
+msgstr "Gabim shkrimi"
+
+msgid "YARA rules path not found"
+msgstr "Shtegu i rregullave YARA nuk u gjet"
+
+msgid "YARA scan failed"
+msgstr "Skanimi YARA dështoi"
+
+msgid "Zeros"
+msgstr "Zero"
+
+msgid "Zoom"
+msgstr "Zmadho/Zvogëlo"
+
+msgid "Zoom In"
+msgstr "Zmadho"
+
+msgid "Zoom Out"
+msgstr "Zvogëlo"
+
+msgid "data"
+msgstr "të dhëna"
+
+msgid "extender"
+msgstr "zgjatues"
+
+msgid "false"
+msgstr "false"
+
+msgid "kB"
+msgstr "kB"
+
+msgid "msec"
+msgstr "msek"
+
+msgid "not packed"
+msgstr "e papaketuar"
+
+msgid "packed"
+msgstr "e paketuar"
+
+msgid "true"
+msgstr "true"
